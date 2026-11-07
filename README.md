@@ -110,4 +110,5 @@ npm run lint
 
 ## Developer
 
-Muhammad Hasnian Tahir
+
+ Hasnian Tahir
